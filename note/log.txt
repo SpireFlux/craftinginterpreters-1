@@ -1,3 +1,16 @@
+2020/12/23 - 9585 words, edit optimization and appendices
+2020/12/22 - 4602 words, edit superclasses
+2020/12/21 - 8427 words, edit methods and initializers
+2020/12/20 - weekend
+2020/12/19 - weekend
+2020/12/18 - 1559 words, finish classes and instances
+2020/12/17 - 1025 words, classes and instances
+2020/12/16 - 1254 words, classes and instances
+2020/12/15 - 9286 words, edit garbage collection
+2020/12/14 - 5833 words, finish closures
+2020/12/13 - weekend
+2020/12/12 - weekend
+2020/12/11 - 4735 words, finish calls and functions
 2020/12/10 - 5192 words, finish calls and functions
 2020/12/09 - 4301 words, calls and functions
 2020/12/08 - email
